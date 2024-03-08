@@ -1,6 +1,6 @@
 {
   "name": "hexly-str-js",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "Hexadecimal utilities",
   "main": "index.js",
   "scripts": {
@@ -33,7 +33,7 @@
   ],
   "author": "Jecsham",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "nyc": "^14.1.1",
     "tape": "^5.0.1",
     "axios": "^1.0.1"
