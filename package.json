@@ -1,0 +1,41 @@
+{
+  "name": "hexly-str-js",
+  "version": "2.1.4",
+  "description": "Hexadecimal utilities",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nyc --reporter lcov tape test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acarolos/hexly-str-js.git"
+  },
+  "keywords": [
+    "hex",
+    "hexadecimal",
+    "numerical",
+    "character",
+    "string",
+    "utitilies",
+    "is-hexadecimal",
+    "is-hex",
+    "hexadecimal-to-string",
+    "string-to-hex",
+    "str",
+    "hexyjs",
+    "hexadecimal-utilities",
+    "hex-utilities",
+    "encode",
+    "decode",
+    "encode-hexadecimal",
+    "decode-hexadecimal"
+  ],
+  "author": "Jecsham",
+  "license": "MIT",
+  "devDependencies": {
+    "nyc": "^14.1.1",
+    "tape": "^5.0.1",
+    "axios": "^1.0.1"
+  }
+}
